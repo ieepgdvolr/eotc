@@ -17,4 +17,4 @@ for i in x:
         count += 1
         group = 0
 
-print(count)    
+print(count)     
