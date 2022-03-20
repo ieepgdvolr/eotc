@@ -4,4 +4,4 @@ for i in range(m):
     temp = list(map(int,input().split()))
     answer = max(answer, min(temp))
    
-print(answer)    
+print(answer)     

@@ -12,4 +12,4 @@ for i in data :
     else :
         answer *= i
         
-print(answer)
+print(answer) 
