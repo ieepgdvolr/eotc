@@ -13,4 +13,4 @@ for i in range(1,len(data)):
             one += 1
         temp = data[i]
 
-print(min(zero,one))
+print(min(zero,one)) 
