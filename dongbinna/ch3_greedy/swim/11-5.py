@@ -1,6 +1,6 @@
 n, m = map(int, input().split())
 
-array = map(int, input().split())
+array = list(map(int, input().split()))
 
 weight = [0] * (m+1)
 answer = 0
